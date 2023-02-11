@@ -4,8 +4,6 @@ let y;
 let xSpeed;
 let ySpeed;
 
-let intro = "oh, hi! I'm Niko and that's my head over there, bouncing like a dvd logo."
-
 function preload(){
 	head = loadImage("head.png");
 }
